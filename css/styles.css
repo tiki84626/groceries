@@ -1,0 +1,11 @@
+.grocery-list {
+  display: none;
+}
+
+h2 {
+  font-variant: small-caps;
+}
+
+form {
+  max-width: 300px;
+}
